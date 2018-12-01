@@ -1,2 +1,2 @@
 # MLND
-machine learning nadodegree on Udacity
+Projects in Udacity machine learning nadodegree
